@@ -1,0 +1,62 @@
+{
+  "date": "2025-10-15",
+  "courts": [
+    {
+      "court_name": "Civil Court",
+      "cases": [
+        {
+          "serial_number": 1,
+          "cnr": "MHCC0100012025",
+          "case_title": "Person1 vs PersonB1",
+          "status": "Adjourned"
+        },
+        {
+          "serial_number": 2,
+          "cnr": "MHCC0100022025",
+          "case_title": "Person2 vs PersonB2",
+          "status": "Listed Today"
+        },
+        {
+          "serial_number": 3,
+          "cnr": "MHCC0100032025",
+          "case_title": "Person3 vs PersonB3",
+          "status": "Listed Today"
+        }
+      ]
+    },
+    {
+      "court_name": "District Court",
+      "cases": [
+        {
+          "serial_number": 1,
+          "cnr": "MHCC0100012025",
+          "case_title": "Person1 vs PersonB1",
+          "status": "Listed Today"
+        },
+        {
+          "serial_number": 2,
+          "cnr": "MHCC0100022025",
+          "case_title": "Person2 vs PersonB2",
+          "status": "Listed Today"
+        }
+      ]
+    },
+    {
+      "court_name": "Family Court",
+      "cases": [
+        {
+          "serial_number": 1,
+          "cnr": "MHCC0100012025",
+          "case_title": "Person1 vs PersonB1",
+          "status": "Listed Today"
+        },
+        {
+          "serial_number": 2,
+          "cnr": "MHCC0100022025",
+          "case_title": "Person2 vs PersonB2",
+          "status": "Listed Today"
+        }
+      ]
+    }
+  ]
+}
